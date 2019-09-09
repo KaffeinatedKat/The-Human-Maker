@@ -1,0 +1,50 @@
+.button {
+  transition-duration: 0.4s;
+  padding: 16px 20px;
+  font-size: 85%;
+  background-color: #555555;
+  color: black;
+  border: 2px solid black;
+}
+
+.button:hover {
+  background-color: black;
+  color: white;
+}
+
+h1 {
+    font-size: 400%;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;}
+
+
+
+
+p {
+    font-size: 150%;
+    color: white;
+    text-shadow: 2px 2px 2px #000000;};
+
+ a:link {
+       background-color: rgb(207, 42, 31); /* red */
+       border: none;
+       color: white;
+       padding: 15px 32px;
+       text-align: center;
+       text-decoration: none;
+       display: inline-block;
+       font-size: 16px;
+       margin: 4px 2px;
+       cursor: pointer;
+       border-radius: 8px;}
+
+body {
+    background-color: #555555;
+}
+
+
+      
+
+
+
+
